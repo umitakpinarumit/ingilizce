@@ -1,20 +1,27 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import * as React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { createNativeStackNavigator } from "@react-navigation/native-stack";
+import LoginPage from '.../../../LoginPage'
+import CategoriesPage from "./CategoriesPage";
+import FillInTheBlanks from "./FillInTheBlanks"
+import WordMatching from "./WordMatching"
+import Eslestirme from "./Eslestirme";
+
+const Stack = createNativeStackNavigator();
+
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <NavigationContainer>
+      <Stack.Navigator initialRouteName="Eslestirme">
+        <Stack.Screen name="Login" component={LoginPage} />
+        <Stack.Screen name="Categories" component={CategoriesPage} />
+        <Stack.Screen name="WordMatching" component={WordMatching} />
+        <Stack.Screen name="FillInTheBlanks" component={FillInTheBlanks} />
+        <Stack.Screen name="Eslestirme" component={Eslestirme} />
+      </Stack.Navigator>
+    </NavigationContainer>
   );
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+

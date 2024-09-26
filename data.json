@@ -1,0 +1,6742 @@
+    [
+      {
+        "id": 1,
+        "turkce": "yetenek",
+        "ingilizce": "ability",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 2,
+        "turkce": "kabul",
+        "ingilizce": "accept",
+        "turu": "v",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 3,
+        "turkce": "kaza",
+        "ingilizce": "accident",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 4,
+        "turkce": "başarı",
+        "ingilizce": "achievement",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 5,
+        "turkce": "edinmek",
+        "ingilizce": "acquire",
+        "turu": "v",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 6,
+        "turkce": "davranış",
+        "ingilizce": "behavior",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 7,
+        "turkce": "inanılmaz",
+        "ingilizce": "amazing",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 8,
+        "turkce": "dikkat",
+        "ingilizce": "attention",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 9,
+        "turkce": "önyargı",
+        "ingilizce": "bias",
+        "turu": "n",
+        "seviyesi": "C1"
+      },
+      {
+        "id": 10,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 11,
+        "turkce": "şube",
+        "ingilizce": "branch",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 12,
+        "turkce": "şanssız",
+        "ingilizce": "unfortunate",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 13,
+        "turkce": "yerçekimi",
+        "ingilizce": "gravity",
+        "turu": "n",
+        "seviyesi": "C1"
+      },
+      {
+        "id": 14,
+        "turkce": "kaza",
+        "ingilizce": "incident",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 15,
+        "turkce": "karar",
+        "ingilizce": "decision",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 16,
+        "turkce": "görüş",
+        "ingilizce": "opinion",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 17,
+        "turkce": "mecbur",
+        "ingilizce": "compulsory",
+        "turu": "adj",
+        "seviyesi": "C1"
+      },
+      {
+        "id": 18,
+        "turkce": "çelişki",
+        "ingilizce": "contradiction",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 19,
+        "turkce": "kararsız",
+        "ingilizce": "indecisive",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 20,
+        "turkce": "tarafsız",
+        "ingilizce": "neutral",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 21,
+        "turkce": "rastgele",
+        "ingilizce": "random",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 22,
+        "turkce": "şekil",
+        "ingilizce": "form",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 23,
+        "turkce": "eser",
+        "ingilizce": "work",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 24,
+        "turkce": "geçici",
+        "ingilizce": "temporary",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 25,
+        "turkce": "kalıcı",
+        "ingilizce": "permanent",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 26,
+        "turkce": "geniş",
+        "ingilizce": "broad",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 27,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 28,
+        "turkce": "genel",
+        "ingilizce": "general",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 29,
+        "turkce": "özel",
+        "ingilizce": "private",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 30,
+        "turkce": "belirsiz",
+        "ingilizce": "vague",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      ,
+      {
+        "id": 31,
+        "turkce": "kesin",
+        "ingilizce": "definite",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 32,
+        "turkce": "teslim olmak",
+        "ingilizce": "surrender",
+        "turu": "v",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 33,
+        "turkce": "başlangıç",
+        "ingilizce": "beginning",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 34,
+        "turkce": "bitirme",
+        "ingilizce": "completion",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 35,
+        "turkce": "sabır",
+        "ingilizce": "patience",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 36,
+        "turkce": "sabırsızlık",
+        "ingilizce": "impatience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 37,
+        "turkce": "hayal",
+        "ingilizce": "dream",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 38,
+        "turkce": "gerçek",
+        "ingilizce": "reality",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 39,
+        "turkce": "güven",
+        "ingilizce": "trust",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 40,
+        "turkce": "şüphe",
+        "ingilizce": "doubt",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 41,
+        "turkce": "düşünce",
+        "ingilizce": "thought",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 42,
+        "turkce": "uygulama",
+        "ingilizce": "practice",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 43,
+        "turkce": "teori",
+        "ingilizce": "theory",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 44,
+        "turkce": "gerçeklik",
+        "ingilizce": "truth",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 45,
+        "turkce": "yalan",
+        "ingilizce": "lie",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 46,
+        "turkce": "adalet",
+        "ingilizce": "justice",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 47,
+        "turkce": "eşitsizlik",
+        "ingilizce": "inequality",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 48,
+        "turkce": "akıl",
+        "ingilizce": "mind",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 49,
+        "turkce": "vücut",
+        "ingilizce": "body",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 50,
+        "turkce": "ruh",
+        "ingilizce": "spirit",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 51,
+        "turkce": "cesaret",
+        "ingilizce": "courage",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 52,
+        "turkce": "korku",
+        "ingilizce": "fear",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 53,
+        "turkce": "özgürlük",
+        "ingilizce": "freedom",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 54,
+        "turkce": "esaret",
+        "ingilizce": "slavery",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 55,
+        "turkce": "ödül",
+        "ingilizce": "reward",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 56,
+        "turkce": "ceza",
+        "ingilizce": "punishment",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 57,
+        "turkce": "iyilik",
+        "ingilizce": "goodness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 58,
+        "turkce": "kötülük",
+        "ingilizce": "evil",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 59,
+        "turkce": "adalet",
+        "ingilizce": "fairness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 60,
+        "turkce": "haksızlık",
+        "ingilizce": "injustice",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 61,
+        "turkce": "bilgi",
+        "ingilizce": "knowledge",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 62,
+        "turkce": "bilgisizlik",
+        "ingilizce": "ignorance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 63,
+        "turkce": "zenginlik",
+        "ingilizce": "wealth",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 64,
+        "turkce": "yoksulluk",
+        "ingilizce": "poverty",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 65,
+        "turkce": "sevgi",
+        "ingilizce": "love",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 66,
+        "turkce": "nefret",
+        "ingilizce": "hatred",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 67,
+        "turkce": "neşe",
+        "ingilizce": "joy",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 68,
+        "turkce": "üzüntü",
+        "ingilizce": "sorrow",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 69,
+        "turkce": "umut",
+        "ingilizce": "hope",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 70,
+        "turkce": "çaresizlik",
+        "ingilizce": "despair",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 71,
+        "turkce": "cesaret",
+        "ingilizce": "bravery",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 72,
+        "turkce": "korkaklık",
+        "ingilizce": "cowardice",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 73,
+        "turkce": "dayanıklılık",
+        "ingilizce": "resilience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 74,
+        "turkce": "kırılganlık",
+        "ingilizce": "fragility",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 75,
+        "turkce": "arkadaşlık",
+        "ingilizce": "friendship",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 76,
+        "turkce": "düşmanlık",
+        "ingilizce": "hostility",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 77,
+        "turkce": "iyi niyet",
+        "ingilizce": "benevolence",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 78,
+        "turkce": "kötü niyet",
+        "ingilizce": "malevolence",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 79,
+        "turkce": "yardımseverlik",
+        "ingilizce": "charity",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 80,
+        "turkce": "bencillik",
+        "ingilizce": "selfishness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 81,
+        "turkce": "onur",
+        "ingilizce": "honor",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 82,
+        "turkce": "utanç",
+        "ingilizce": "shame",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 83,
+        "turkce": "mutluluk",
+        "ingilizce": "happiness",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 84,
+        "turkce": "mutsuzluk",
+        "ingilizce": "unhappiness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 85,
+        "turkce": "sabır",
+        "ingilizce": "tolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 86,
+        "turkce": "hoşgörüsüzlük",
+        "ingilizce": "intolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 87,
+        "turkce": "sevgi",
+        "ingilizce": "affection",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 88,
+        "turkce": "ilgisizlik",
+        "ingilizce": "indifference",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 89,
+        "turkce": "bağlılık",
+        "ingilizce": "loyalty",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 90,
+        "turkce": "sadakatsizlik",
+        "ingilizce": "disloyalty",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      ,
+      {
+        "id": 91,
+        "turkce": "açık sözlülük",
+        "ingilizce": "frankness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 92,
+        "turkce": "samimiyetsizlik",
+        "ingilizce": "insincerity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 93,
+        "turkce": "dürüstlük",
+        "ingilizce": "honesty",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 94,
+        "turkce": "yalancılık",
+        "ingilizce": "lying",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 95,
+        "turkce": "cömertlik",
+        "ingilizce": "generosity",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 96,
+        "turkce": "cimrilik",
+        "ingilizce": "stinginess",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 97,
+        "turkce": "iyimserlik",
+        "ingilizce": "optimism",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 98,
+        "turkce": "kötümserlik",
+        "ingilizce": "pessimism",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 99,
+        "turkce": "sabırlılık",
+        "ingilizce": "patience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 100,
+        "turkce": "sabırsızlık",
+        "ingilizce": "impatience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 101,
+        "turkce": "alçakgönüllülük",
+        "ingilizce": "humility",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 102,
+        "turkce": "kibir",
+        "ingilizce": "arrogance",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 103,
+        "turkce": "açgözlülük",
+        "ingilizce": "greed",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 104,
+        "turkce": "hoşgörü",
+        "ingilizce": "tolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 105,
+        "turkce": "hoşgörüsüzlük",
+        "ingilizce": "intolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 106,
+        "turkce": "bağışlayıcılık",
+        "ingilizce": "forgiveness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 107,
+        "turkce": "kindarlık",
+        "ingilizce": "resentment",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 108,
+        "turkce": "onur",
+        "ingilizce": "dignity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 109,
+        "turkce": "şeref",
+        "ingilizce": "honor",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 110,
+        "turkce": "özveri",
+        "ingilizce": "selflessness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 111,
+        "turkce": "bencillik",
+        "ingilizce": "selfishness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 112,
+        "turkce": "güven",
+        "ingilizce": "trust",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 113,
+        "turkce": "güvensizlik",
+        "ingilizce": "distrust",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 114,
+        "turkce": "sempati",
+        "ingilizce": "sympathy",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 115,
+        "turkce": "antipati",
+        "ingilizce": "antipathy",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 116,
+        "turkce": "alçakgönüllülük",
+        "ingilizce": "modesty",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 117,
+        "turkce": "kibir",
+        "ingilizce": "pride",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 118,
+        "turkce": "dürüstlük",
+        "ingilizce": "integrity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 119,
+        "turkce": "yalan",
+        "ingilizce": "lie",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 120,
+        "turkce": "dürüstlük",
+        "ingilizce": "honesty",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 121,
+        "turkce": "cömertlik",
+        "ingilizce": "generosity",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 122,
+        "turkce": "cimrilik",
+        "ingilizce": "stinginess",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 123,
+        "turkce": "iyimserlik",
+        "ingilizce": "optimism",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 124,
+        "turkce": "kötümserlik",
+        "ingilizce": "pessimism",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 125,
+        "turkce": "sabırlılık",
+        "ingilizce": "patience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 126,
+        "turkce": "sabırsızlık",
+        "ingilizce": "impatience",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 127,
+        "turkce": "alçakgönüllülük",
+        "ingilizce": "humility",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 128,
+        "turkce": "kibir",
+        "ingilizce": "arrogance",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 129,
+        "turkce": "açgözlülük",
+        "ingilizce": "greed",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 130,
+        "turkce": "hoşgörü",
+        "ingilizce": "tolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 131,
+        "turkce": "hoşgörüsüzlük",
+        "ingilizce": "intolerance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 132,
+        "turkce": "bağışlayıcılık",
+        "ingilizce": "forgiveness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 133,
+        "turkce": "kindarlık",
+        "ingilizce": "resentment",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 134,
+        "turkce": "onur",
+        "ingilizce": "dignity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 135,
+        "turkce": "şeref",
+        "ingilizce": "honor",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 136,
+        "turkce": "özveri",
+        "ingilizce": "selflessness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 137,
+        "turkce": "bencillik",
+        "ingilizce": "selfishness",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 138,
+        "turkce": "güven",
+        "ingilizce": "trust",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 139,
+        "turkce": "güvensizlik",
+        "ingilizce": "distrust",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 140,
+        "turkce": "sempati",
+        "ingilizce": "sympathy",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 141,
+        "turkce": "antipati",
+        "ingilizce": "antipathy",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 142,
+        "turkce": "alçakgönüllülük",
+        "ingilizce": "modesty",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 143,
+        "turkce": "kibir",
+        "ingilizce": "pride",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 144,
+        "turkce": "dürüstlük",
+        "ingilizce": "integrity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 145,
+        "turkce": "yalan",
+        "ingilizce": "lie",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 146,
+        "turkce": "sabırlılık",
+        "ingilizce": "forbearance",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 147,
+        "turkce": "sabırsızlık",
+        "ingilizce": "irritability",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 148,
+        "turkce": "şüphecilik",
+        "ingilizce": "skepticism",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 149,
+        "turkce": "güven",
+        "ingilizce": "reliability",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 150,
+        "turkce": "yalan",
+        "ingilizce": "deceit",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      ,
+      {
+        "id": 151,
+        "turkce": "yetenek",
+        "ingilizce": "skill",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 152,
+        "turkce": "beceri",
+        "ingilizce": "ability",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 153,
+        "turkce": "yetenek",
+        "ingilizce": "talent",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 154,
+        "turkce": "yeterlilik",
+        "ingilizce": "competence",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 155,
+        "turkce": "deneyim",
+        "ingilizce": "experience",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 156,
+        "turkce": "ustalık",
+        "ingilizce": "expertise",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 157,
+        "turkce": "hüner",
+        "ingilizce": "craftsmanship",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 158,
+        "turkce": "ustalık",
+        "ingilizce": "mastery",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 159,
+        "turkce": "beceri",
+        "ingilizce": "proficiency",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 160,
+        "turkce": "ustalık",
+        "ingilizce": "dexterity",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 161,
+        "turkce": "yaratıcılık",
+        "ingilizce": "creativity",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 162,
+        "turkce": "çeviklik",
+        "ingilizce": "agility",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 163,
+        "turkce": "kavrayış",
+        "ingilizce": "insight",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 164,
+        "turkce": "kavrayış",
+        "ingilizce": "understanding",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 165,
+        "turkce": "zeka",
+        "ingilizce": "intelligence",
+        "turu": "n",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 166,
+        "turkce": "bilgelik",
+        "ingilizce": "wisdom",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 167,
+        "turkce": "zeka",
+        "ingilizce": "wit",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 168,
+        "turkce": "yaratıcılık",
+        "ingilizce": "innovation",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 169,
+        "turkce": "yaratıcı",
+        "ingilizce": "inventive",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 170,
+        "turkce": "çeviklik",
+        "ingilizce": "nimbleness",
+        "turu": "n",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 171,
+        "turkce": "zeki",
+        "ingilizce": "clever",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 172,
+        "turkce": "çevik",
+        "ingilizce": "quick-witted",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 173,
+        "turkce": "büyük",
+        "ingilizce": "large",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 174,
+        "turkce": "kocaman",
+        "ingilizce": "huge",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 175,
+        "turkce": "devasa",
+        "ingilizce": "gigantic",
+        "turu": "adj",
+        "seviyesi": "B2"
+      },
+      {
+        "id": 176,
+        "turkce": "minik",
+        "ingilizce": "tiny",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 177,
+        "turkce": "küçük",
+        "ingilizce": "small",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 178,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 179,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 180,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 181,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 182,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 183,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 184,
+        "turkce": "kalın",
+        "ingilizce": "thick",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 185,
+        "turkce": "ince",
+        "ingilizce": "thin",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 186,
+        "turkce": "şişman",
+        "ingilizce": "fat",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 187,
+        "turkce": "zayıf",
+        "ingilizce": "slim",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 188,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 189,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 190,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 191,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 192,
+        "turkce": "ağır",
+        "ingilizce": "heavy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 193,
+        "turkce": "hafif",
+        "ingilizce": "light",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 194,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 195,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 196,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 197,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 198,
+        "turkce": "yakışıklı",
+        "ingilizce": "handsome",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 199,
+        "turkce": "çirkin",
+        "ingilizce": "unattractive",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 200,
+        "turkce": "zarif",
+        "ingilizce": "elegant",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 201,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 202,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 203,
+        "turkce": "temiz",
+        "ingilizce": "clean",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 204,
+        "turkce": "kirli",
+        "ingilizce": "dirty",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 205,
+        "turkce": "düzenli",
+        "ingilizce": "tidy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 206,
+        "turkce": "düzensiz",
+        "ingilizce": "messy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 207,
+        "turkce": "dostça",
+        "ingilizce": "friendly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 208,
+        "turkce": "düşmanca",
+        "ingilizce": "hostile",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 209,
+        "turkce": "mutlu",
+        "ingilizce": "happy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 210,
+        "turkce": "üzgün",
+        "ingilizce": "sad",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 211,
+        "turkce": "neşeli",
+        "ingilizce": "cheerful",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 212,
+        "turkce": "kaygılı",
+        "ingilizce": "anxious",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 213,
+        "turkce": "kızgın",
+        "ingilizce": "angry",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 214,
+        "turkce": "sakin",
+        "ingilizce": "calm",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 215,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 216,
+        "turkce": "korkak",
+        "ingilizce": "cowardly",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 217,
+        "turkce": "kibar",
+        "ingilizce": "polite",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 218,
+        "turkce": "kaba",
+        "ingilizce": "rude",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 219,
+        "turkce": "nazik",
+        "ingilizce": "kind",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 220,
+        "turkce": "acımasız",
+        "ingilizce": "cruel",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      ,
+      {
+        "id": 221,
+        "turkce": "yardımsever",
+        "ingilizce": "helpful",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 222,
+        "turkce": "bencil",
+        "ingilizce": "selfish",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 223,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 224,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 225,
+        "turkce": "neşesiz",
+        "ingilizce": "gloomy",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 226,
+        "turkce": "dikkatli",
+        "ingilizce": "careful",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 227,
+        "turkce": "dikkatsiz",
+        "ingilizce": "careless",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 228,
+        "turkce": "samimi",
+        "ingilizce": "sincere",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 229,
+        "turkce": "samimiyetsiz",
+        "ingilizce": "insincere",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 230,
+        "turkce": "uyumlu",
+        "ingilizce": "cooperative",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 231,
+        "turkce": "uyumsuz",
+        "ingilizce": "uncooperative",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 232,
+        "turkce": "meraklı",
+        "ingilizce": "curious",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 233,
+        "turkce": "umursamaz",
+        "ingilizce": "indifferent",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 234,
+        "turkce": "kararlı",
+        "ingilizce": "determined",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 235,
+        "turkce": "kararsız",
+        "ingilizce": "indecisive",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 236,
+        "turkce": "duygusal",
+        "ingilizce": "emotional",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 237,
+        "turkce": "duygusuz",
+        "ingilizce": "unemotional",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 238,
+        "turkce": "dürüst",
+        "ingilizce": "honest",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 239,
+        "turkce": "dürüst olmayan",
+        "ingilizce": "dishonest",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 240,
+        "turkce": "fedakar",
+        "ingilizce": "self-sacrificing",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 241,
+        "turkce": "inatçı",
+        "ingilizce": "stubborn",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 242,
+        "turkce": "esnek",
+        "ingilizce": "flexible",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 243,
+        "turkce": "esnek olmayan",
+        "ingilizce": "inflexible",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 244,
+        "turkce": "mantıklı",
+        "ingilizce": "rational",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 245,
+        "turkce": "mantıksız",
+        "ingilizce": "irrational",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 246,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 247,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 248,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 249,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 250,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 251,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 252,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 253,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 254,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 255,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 256,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 257,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 258,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 259,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 260,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 261,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 262,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 263,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 264,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 265,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 266,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 267,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 268,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 269,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 270,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 271,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 272,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 273,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 274,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 275,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 276,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 277,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 278,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 279,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 280,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 281,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 282,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 283,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 284,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 285,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 286,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 287,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 288,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 289,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 290,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 291,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 292,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 293,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 294,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 295,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 296,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 297,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 298,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 299,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 300,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 301,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 302,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 303,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 304,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 305,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 306,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 307,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 308,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 309,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 310,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 311,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 312,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 313,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 314,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 315,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 316,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 317,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 318,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 319,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 320,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 321,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 322,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 323,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 324,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 325,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 326,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 327,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 328,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 329,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 330,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 331,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 332,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 333,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 334,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 335,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 336,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 337,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 338,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 339,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 340,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 341,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 342,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 343,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 344,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 345,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 346,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 347,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 348,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 349,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 350,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 351,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 352,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 353,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 354,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 355,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 356,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 357,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 358,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 359,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 360,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 361,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 362,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 363,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 364,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 365,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 366,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 367,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 368,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 369,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 370,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 371,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 372,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 373,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 374,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 375,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 376,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 377,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 378,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 379,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 380,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 381,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 382,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 383,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 384,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 385,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 386,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 387,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 388,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 389,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 390,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 391,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 392,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 393,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 394,
+        "turkce": "enerjik",
+        "ingilizce": "energetic",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 395,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 396,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 397,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 398,
+        "turkce": "utangaç",
+        "ingilizce": "shy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 399,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 400,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 401,
+        "turkce": "hareketli",
+        "ingilizce": "lively",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 402,
+        "turkce": "önemli",
+        "ingilizce": "important",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 403,
+        "turkce": "önemsiz",
+        "ingilizce": "unimportant",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 404,
+        "turkce": "heyecanlı",
+        "ingilizce": "excited",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 405,
+        "turkce": "mutsuz",
+        "ingilizce": "unhappy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 406,
+        "turkce": "neşeli",
+        "ingilizce": "cheerful",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 407,
+        "turkce": "dikkatli",
+        "ingilizce": "careful",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 408,
+        "turkce": "dikkatsiz",
+        "ingilizce": "careless",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 409,
+        "turkce": "cesaretli",
+        "ingilizce": "courageous",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 410,
+        "turkce": "sıkı",
+        "ingilizce": "tight",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 411,
+        "turkce": "gevşek",
+        "ingilizce": "loose",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 412,
+        "turkce": "şık",
+        "ingilizce": "elegant",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 413,
+        "turkce": "yakışıklı",
+        "ingilizce": "handsome",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 414,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 415,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 416,
+        "turkce": "kibar",
+        "ingilizce": "polite",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 417,
+        "turkce": "kaba",
+        "ingilizce": "rude",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 418,
+        "turkce": "sevimli",
+        "ingilizce": "cute",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 419,
+        "turkce": "yakın",
+        "ingilizce": "close",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 420,
+        "turkce": "uzak",
+        "ingilizce": "far",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 421,
+        "turkce": "zor",
+        "ingilizce": "difficult",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 422,
+        "turkce": "kolay",
+        "ingilizce": "easy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 423,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 424,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 425,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 426,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 427,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 428,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 429,
+        "turkce": "parlak",
+        "ingilizce": "bright",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 430,
+        "turkce": "mat",
+        "ingilizce": "dull",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 431,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 432,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 433,
+        "turkce": "ağır",
+        "ingilizce": "heavy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 434,
+        "turkce": "hafif",
+        "ingilizce": "light",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 435,
+        "turkce": "taze",
+        "ingilizce": "fresh",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 436,
+        "turkce": "bayat",
+        "ingilizce": "stale",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 437,
+        "turkce": "zor",
+        "ingilizce": "difficult",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 438,
+        "turkce": "kolay",
+        "ingilizce": "easy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 439,
+        "turkce": "esnek",
+        "ingilizce": "flexible",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 440,
+        "turkce": "katı",
+        "ingilizce": "rigid",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 441,
+        "turkce": "sadık",
+        "ingilizce": "loyal",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 442,
+        "turkce": "hain",
+        "ingilizce": "traitor",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 443,
+        "turkce": "eski",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 444,
+        "turkce": "yeni",
+        "ingilizce": "new",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 445,
+        "turkce": "sakin",
+        "ingilizce": "calm",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 446,
+        "turkce": "sinirli",
+        "ingilizce": "angry",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 447,
+        "turkce": "hoşgörülü",
+        "ingilizce": "tolerant",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 448,
+        "turkce": "hoşgörüsüz",
+        "ingilizce": "intolerant",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 449,
+        "turkce": "sabırlı",
+        "ingilizce": "patient",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 450,
+        "turkce": "sabırsız",
+        "ingilizce": "impatient",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 451,
+        "turkce": "komik",
+        "ingilizce": "funny",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 452,
+        "turkce": "ciddi",
+        "ingilizce": "serious",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 453,
+        "turkce": "açık",
+        "ingilizce": "open",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 454,
+        "turkce": "kapalı",
+        "ingilizce": "closed",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 455,
+        "turkce": "boş",
+        "ingilizce": "empty",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 456,
+        "turkce": "dolu",
+        "ingilizce": "full",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 457,
+        "turkce": "ciddi",
+        "ingilizce": "serious",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 458,
+        "turkce": "akıllı",
+        "ingilizce": "smart",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 459,
+        "turkce": "aptal",
+        "ingilizce": "stupid",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 460,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 461,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 462,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 463,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 464,
+        "turkce": "tembel",
+        "ingilizce": "lazy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 465,
+        "turkce": "çalışkan",
+        "ingilizce": "hardworking",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 466,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 467,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 468,
+        "turkce": "ilginç",
+        "ingilizce": "interesting",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 469,
+        "turkce": "sıkıcı",
+        "ingilizce": "boring",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 470,
+        "turkce": "sosyal",
+        "ingilizce": "social",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 471,
+        "turkce": "antisosyal",
+        "ingilizce": "antisocial",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 472,
+        "turkce": "önemli",
+        "ingilizce": "important",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 473,
+        "turkce": "önemsiz",
+        "ingilizce": "unimportant",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 474,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 475,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 476,
+        "turkce": "cesur",
+        "ingilizce": "brave",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 477,
+        "turkce": "korkak",
+        "ingilizce": "coward",
+        "turu": "n",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 478,
+        "turkce": "aydınlık",
+        "ingilizce": "bright",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 479,
+        "turkce": "karanlık",
+        "ingilizce": "dark",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 480,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 481,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 482,
+        "turkce": "şişman",
+        "ingilizce": "fat",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 483,
+        "turkce": "zayıf",
+        "ingilizce": "thin",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 484,
+        "turkce": "mutlu",
+        "ingilizce": "happy",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 485,
+        "turkce": "üzgün",
+        "ingilizce": "sad",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 486,
+        "turkce": "gürültülü",
+        "ingilizce": "noisy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 487,
+        "turkce": "sessiz",
+        "ingilizce": "quiet",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 488,
+        "turkce": "güvenli",
+        "ingilizce": "safe",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 489,
+        "turkce": "tehlikeli",
+        "ingilizce": "dangerous",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 490,
+        "turkce": "tatlı",
+        "ingilizce": "sweet",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 491,
+        "turkce": "ekşi",
+        "ingilizce": "sour",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 492,
+        "turkce": "keskin",
+        "ingilizce": "sharp",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 493,
+        "turkce": "sivri",
+        "ingilizce": "pointed",
+        "turu": "adj",
+        "seviyesi": "B1"
+      },
+      {
+        "id": 494,
+        "turkce": "yuvarlak",
+        "ingilizce": "round",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 495,
+        "turkce": "düz",
+        "ingilizce": "flat",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 496,
+        "turkce": "yuvarlak",
+        "ingilizce": "round",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 497,
+        "turkce": "düz",
+        "ingilizce": "flat",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 498,
+        "turkce": "büyük",
+        "ingilizce": "big",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 499,
+        "turkce": "küçük",
+        "ingilizce": "small",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 500,
+        "turkce": "ağır",
+        "ingilizce": "heavy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 501,
+        "turkce": "hafif",
+        "ingilizce": "light",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 502,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 503,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 504,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 505,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 506,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 507,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 508,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 509,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 510,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 511,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 512,
+        "turkce": "sağlam",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 513,
+        "turkce": "zayıf",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 514,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 515,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 516,
+        "turkce": "ağır",
+        "ingilizce": "heavy",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 517,
+        "turkce": "hafif",
+        "ingilizce": "light",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 518,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 519,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 520,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 521,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 522,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 523,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 524,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 525,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 526,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 527,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 528,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 529,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 530,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 531,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 532,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 533,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 534,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 535,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 536,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 537,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 538,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 539,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 540,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 541,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 542,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 543,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 544,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 545,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 546,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 547,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 548,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 549,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 550,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 551,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 552,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 553,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 554,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 555,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 556,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 557,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 558,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 559,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 560,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 561,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 562,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 563,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 564,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 565,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 566,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 567,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 568,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 569,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 570,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 571,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 572,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 573,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 574,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 575,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 576,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 577,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 578,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 579,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 580,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 581,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 582,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 583,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 584,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 585,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 586,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 587,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 588,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 589,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 590,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 591,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 592,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 593,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 594,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 595,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 596,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 597,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 598,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 599,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 600,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 601,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 602,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 603,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 604,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 605,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 606,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 607,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 608,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 609,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 610,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 611,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 612,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 613,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 614,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 615,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 616,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 617,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 618,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 619,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 620,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 621,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 622,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 623,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 624,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 625,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 626,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 627,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 628,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 629,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 630,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 631,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 632,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 633,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 634,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 635,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 636,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 637,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 638,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 639,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 640,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 641,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 642,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 643,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 644,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 645,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 646,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 647,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 648,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 649,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 650,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 651,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 652,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 653,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 654,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 655,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 656,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 657,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 658,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 659,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 660,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 661,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 662,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 663,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 664,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 665,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 666,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 667,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 668,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 669,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 670,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 671,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 672,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 673,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 674,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 675,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 676,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 677,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 678,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 679,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 680,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 681,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 682,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 683,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 684,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 685,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 686,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 687,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 688,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 689,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 690,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 691,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 692,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 693,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 694,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 695,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 696,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 697,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 698,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 699,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 700,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 701,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 702,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 703,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 704,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 705,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 706,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 707,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 708,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 709,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 710,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 711,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 712,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 713,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 714,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 715,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 716,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 717,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 718,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 719,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 720,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 721,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 722,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 723,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 724,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 725,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 726,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 727,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 728,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 729,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 730,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 731,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 732,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 733,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 734,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 735,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 736,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 737,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 738,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 739,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 740,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 741,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 742,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 743,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 744,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 745,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 746,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 747,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 748,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 749,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 750,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 751,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 752,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 753,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 754,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 755,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 756,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 757,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 758,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 759,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 760,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 761,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 762,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 763,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 764,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 765,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 766,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 767,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 768,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 769,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 770,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 771,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 772,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 773,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 774,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 775,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 776,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 777,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 778,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 779,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 780,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 781,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 782,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 783,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 784,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 785,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 786,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 787,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 788,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 789,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 790,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 791,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 792,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 793,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 794,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 795,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 796,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 797,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 798,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 799,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 800,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 801,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 802,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 803,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 804,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 805,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 806,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 807,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 808,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 809,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 810,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 811,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 812,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 813,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 814,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 815,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 816,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 817,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 818,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 819,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 820,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 821,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 822,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 823,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 824,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 825,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 826,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 827,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 828,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 829,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 830,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 831,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 832,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 833,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 834,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 835,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 836,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 837,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 838,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 839,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 840,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 841,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 842,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 843,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 844,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 845,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 846,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 847,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 848,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 849,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 850,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 851,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 852,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 853,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 854,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 855,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 856,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 857,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 858,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 859,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 860,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      ,
+      {
+        "id": 861,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 862,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 863,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 864,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 865,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 866,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 867,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 868,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 869,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 870,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 871,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 872,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 873,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 874,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 875,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 876,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 877,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 878,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 879,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 880,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 881,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 882,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 883,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 884,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 885,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 886,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 887,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 888,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 889,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 890,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 891,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 892,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 893,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 894,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 895,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 896,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 897,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 898,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 899,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 900,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 901,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 902,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 903,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 904,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 905,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 906,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 907,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 908,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 909,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 910,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      ,
+      {
+        "id": 911,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 912,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 913,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 914,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 915,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 916,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 917,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 918,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 919,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 920,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 921,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 922,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 923,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 924,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 925,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 926,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 927,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 928,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 929,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 930,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 931,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 932,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 933,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 934,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 935,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 936,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 937,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 938,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 939,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 940,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 941,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 942,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 943,
+        "turkce": "yavaş",
+        "ingilizce": "slow",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 944,
+        "turkce": "sert",
+        "ingilizce": "hard",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 945,
+        "turkce": "yumuşak",
+        "ingilizce": "soft",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 946,
+        "turkce": "uzun",
+        "ingilizce": "long",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 947,
+        "turkce": "kısa",
+        "ingilizce": "short",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 948,
+        "turkce": "geniş",
+        "ingilizce": "wide",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 949,
+        "turkce": "dar",
+        "ingilizce": "narrow",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 950,
+        "turkce": "güçlü",
+        "ingilizce": "strong",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 951,
+        "turkce": "güçsüz",
+        "ingilizce": "weak",
+        "turu": "adj",
+        "seviyesi": "A2"
+      },
+      {
+        "id": 952,
+        "turkce": "yüksek",
+        "ingilizce": "high",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 953,
+        "turkce": "alçak",
+        "ingilizce": "low",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 954,
+        "turkce": "genç",
+        "ingilizce": "young",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 955,
+        "turkce": "yaşlı",
+        "ingilizce": "old",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 956,
+        "turkce": "güzel",
+        "ingilizce": "beautiful",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 957,
+        "turkce": "çirkin",
+        "ingilizce": "ugly",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 958,
+        "turkce": "zengin",
+        "ingilizce": "rich",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 959,
+        "turkce": "fakir",
+        "ingilizce": "poor",
+        "turu": "adj",
+        "seviyesi": "A1"
+      },
+      {
+        "id": 960,
+        "turkce": "hızlı",
+        "ingilizce": "fast",
+        "turu": "adj",
+        "seviyesi": "A1"
+      }
+    ]
