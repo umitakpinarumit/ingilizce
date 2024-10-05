@@ -1,12 +1,19 @@
 {
   "expo": {
-    "name": "pro3",
-    "slug": "pro3",
+    "name": "pro4",
+    "displayName": "Proje 4",
+    "slug": "pro4",
     "version": "1.0.0",
+    "jsEngine": "jsc",
+    "assetBundlePatterns": [
+      "model/*.bin",
+      "model/model.json"
+    ],
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
+    
     "splash": {
       "image": "./assets/images/splash.png",
       "resizeMode": "contain",
