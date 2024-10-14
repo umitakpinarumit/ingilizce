@@ -34,7 +34,10 @@ export default function LoginPage({ navigation }) {
   return (
     <View style={styles.container}>
       <View style={styles.inputRow}>
-        <Image source={require("./assets/kullanici.png")} style={styles.icon} />
+        <Image
+          source={require("../assets/kullanici.png")}
+          style={styles.icon}
+        />
         <TextInput
           style={[styles.input, error && styles.errorInput]}
           placeholder="Enter username"
@@ -43,7 +46,7 @@ export default function LoginPage({ navigation }) {
         />
       </View>
       <View style={styles.inputRow}>
-        <Image source={require("./assets/sifre.png")} style={styles.icon} />
+        <Image source={require("../assets/sifre.png")} style={styles.icon} />
         <View style={styles.passwordContainer}>
           <TextInput
             style={[styles.input, error && styles.errorInput]}
@@ -59,8 +62,8 @@ export default function LoginPage({ navigation }) {
             <Image
               source={
                 secureText
-                  ? require("./assets/kapaligoz.png")
-                  : require("./assets/acikgoz.png")
+                  ? require("../assets/kapaligoz.png")
+                  : require("../assets/acikgoz.png")
               }
               style={styles.eyeIcon}
             />
